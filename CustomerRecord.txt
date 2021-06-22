@@ -1,0 +1,56 @@
+1
+Sajjad Ali
+Fri Jun 18 06:28:01 2021 
+3
+Medicince Detail : 
+B 
+4
+16000
+E
+18
+36000
+D
+6
+24000
+Total Price : 
+76000
+--------------------
+2
+Ejaz
+Sun Jun 18 06:28:01 2021
+1
+Medicince Detail : 
+B
+10
+40000
+Total Price : 
+40000
+--------------------
+5
+Habibullah
+Sat Jun 19 10:14:57 2021
+2
+Medicince Detail : 
+D
+12
+4800
+A
+10
+19000
+Total Price : 
+23800
+--------------------
+6
+Asif
+Sat Jun 19 10:18:07 2021
+2
+Medicince Detail : 
+B
+1
+4000
+E
+3
+6900
+Total Price : 
+10900
+--------------------
